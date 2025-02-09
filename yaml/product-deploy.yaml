@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: product
-          image: heaves/product-service-single:v1.0.56
+          image: heaves/product-service-single:v1.0.57
           ports:
             - containerPort: 9301

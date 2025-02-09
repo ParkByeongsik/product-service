@@ -10,7 +10,7 @@ spring:
 #    url: jdbc:mysql://mydb.c92y6408ia65.ap-northeast-2.rds.amazonaws.com:3306/msa?serverTimezone=Asia/Seoul
 #    username: mytest
 #    password: mypass1234
-    url: jdbc:mysql://192.168.45.95:3306/msa?serverTimezone=Asia/Seoul
+    url: jdbc:mysql://192.168.45.80:3306/msa?serverTimezone=Asia/Seoul
     username: mytest2
     password: 1234
   jpa:
